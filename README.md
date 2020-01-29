@@ -1,5 +1,4 @@
-# Power BI
-Relatórios produzidos no Power BI
+# Dashboards Power BI
 
 Relatório de desempenho de venda: http://bit.ly/relatoriovenda
 
